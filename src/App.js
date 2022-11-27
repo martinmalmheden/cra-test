@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -6,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          PLUIE IS TESTING CONTINUOUS INTEGRATION
+          Pluie is trying continuous integration stack
         </p>
       </header>
     </div>
