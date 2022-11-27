@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Pluie is trying continuous integration stack
+          Pluie is playing with continuous integration
         </p>
       </header>
     </div>
